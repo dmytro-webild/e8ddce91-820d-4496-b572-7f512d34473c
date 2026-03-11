@@ -80,7 +80,7 @@ export default function LandingPage() {
           useInvertedBackground={false}
           mediaAnimation="slide-up"
           metricsAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg?_wi=1"
           imageAlt="Barbershop Interior"
         />
       </div>
@@ -95,7 +95,7 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Corte à Tesoura",              description: "Técnica clássica com acabamento impecável. Perfeito para quem quer um corte personalizado e detalhado.",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg",              imageAlt: "Corte à Tesoura"
+              title: "Corte à Tesoura",              description: "Técnica clássica com acabamento impecável. Perfeito para quem quer um corte personalizado e detalhado.",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg?_wi=2",              imageAlt: "Corte à Tesoura"
             },
             {
               id: 2,
@@ -107,7 +107,7 @@ export default function LandingPage() {
             },
             {
               id: 4,
-              title: "Trim & Styling",              description: "Manutenção de barba e cabelo com produtos premium. Saias daqui pronto para conquistar o mundo.",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg",              imageAlt: "Trim & Styling"
+              title: "Trim & Styling",              description: "Manutenção de barba e cabelo com produtos premium. Saias daqui pronto para conquistar o mundo.",              imageSrc: "http://img.b2bpic.net/free-photo/handsome-stylish-bearded-male-with-tattoo-arm-dressed-flannel-shirt-drinks-coffee-barbershop_613910-14697.jpg?_wi=3",              imageAlt: "Trim & Styling"
             }
           ]}
           textboxLayout="default"
@@ -130,10 +130,10 @@ export default function LandingPage() {
           useInvertedBackground={true}
           testimonials={[
             {
-              id: "1",              title: "O Patrão é uma Máquina",              quote: "Corte e barba 5 estrelas e rápido. O Luís sabe exatamente o que faz. Sempre perfeito.",              name: "Alexandre R.",              role: "Cliente Regular",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-young-woman-wearing-life-jacket_23-2147562086.jpg",              imageAlt: "Alexandre R"
+              id: "1",              title: "O Patrão é uma Máquina",              quote: "Corte e barba 5 estrelas e rápido. O Luís sabe exatamente o que faz. Sempre perfeito.",              name: "Alexandre R.",              role: "Cliente Regular",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-young-woman-wearing-life-jacket_23-2147562086.jpg?_wi=1",              imageAlt: "Alexandre R"
             },
             {
-              id: "2",              title: "A Verdadeira Arte de Bem Receber",              quote: "Serviço personalizado e atenção ao detalhe. Não é só um corte, é uma experiência completa.",              name: "Renato N.",              role: "Cliente Fiel",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-with-tie_1098-2867.jpg",              imageAlt: "Renato N"
+              id: "2",              title: "A Verdadeira Arte de Bem Receber",              quote: "Serviço personalizado e atenção ao detalhe. Não é só um corte, é uma experiência completa.",              name: "Renato N.",              role: "Cliente Fiel",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-with-tie_1098-2867.jpg?_wi=1",              imageAlt: "Renato N"
             },
             {
               id: "3",              title: "Vim de Espanha de Propósito",              quote: "Sim, viajei de Espanha de propósito para cortar aqui. Brutal! Voltarei.",              name: "Andrey M.",              role: "Viajante",              imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-positive-man_23-2148012215.jpg",              imageAlt: "Andrey M"
@@ -142,10 +142,10 @@ export default function LandingPage() {
               id: "4",              title: "Barbeiro Feio, Trabalho Incrível",              quote: "O Bernardo é feio mas incrível no trabalho que faz. A melhor barbearia de Leiria, sem dúvida.",              name: "Pedro S.",              role: "Cliente Habitual",              imageSrc: "http://img.b2bpic.net/free-photo/shallow-focus-shot-smiling-white-caucasian-male_181624-29344.jpg",              imageAlt: "Pedro S"
             },
             {
-              id: "5",              title: "Ambiente Perfeito",              quote: "Boa música, sofás confortáveis, cerveja gelada e um corte de arte. Isto é o que chamo de barbearia premium.",              name: "João C.",              role: "Cliente Premium",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-young-woman-wearing-life-jacket_23-2147562086.jpg",              imageAlt: "João C"
+              id: "5",              title: "Ambiente Perfeito",              quote: "Boa música, sofás confortáveis, cerveja gelada e um corte de arte. Isto é o que chamo de barbearia premium.",              name: "João C.",              role: "Cliente Premium",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-young-woman-wearing-life-jacket_23-2147562086.jpg?_wi=2",              imageAlt: "João C"
             },
             {
-              id: "6",              title: "A Mota é Incrível",              quote: "A mota na decoração, a vibe, o profissionalismo. Tudo. Recomendo a todos os meus amigos.",              name: "Marco T.",              role: "Amigo da Causa",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-with-tie_1098-2867.jpg",              imageAlt: "Marco T"
+              id: "6",              title: "A Mota é Incrível",              quote: "A mota na decoração, a vibe, o profissionalismo. Tudo. Recomendo a todos os meus amigos.",              name: "Marco T.",              role: "Amigo da Causa",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-businessman-with-tie_1098-2867.jpg?_wi=2",              imageAlt: "Marco T"
             }
           ]}
         />
